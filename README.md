@@ -4,14 +4,13 @@
 
       pt/br: Olá, sou um gestor de Supply Chain e estou em processo de transição de carreira para a área de Análise de Dados.
       
-💻 I’m currently learning Data Analysis
+💻 I’m currently learning Data Analysis!
 
       pt/br: Atualmente estudo Análise de dados
       
 ⚡ I'm currently learning a lot at a Data Analysis Bootcamp at SoulCode:
 
-      pt/br: Atualmente, estou aprendendo muito em um Bootcamp de Análise de Dados na SoulCode:
- 
+      pt/br: Atualmente, estou aprendendo muito em um Bootcamp de Análise de Dados na SoulCode: 
 - Fundamentos da linguagem Python e de Banco de Dados, incluindo Jupyter, Pandas e Pyspark
 - Desde estatística básica e storytelling de dados, até KPIs e visualização de dados em Looker Studio e Power BI
 - Introdução a computação em nuvem, ambientes OnPremisse e Cloud, Cloud Storage e gestão de usuários (GCP, BigQuery)
